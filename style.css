@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .container {
+    width: 100%;
+    height: 1800px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .titleAbout {
+    width: 518px;
+    color: #D9298A;
+    position: absolute;
+    top: 30%;
+    left: 219px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 33px;
+    opacity: 1;
+    text-align: left;
+  }
+  .criando{
+    color:azure;
+  }
+  .container2 {
+    width: 100%;
+    background: url("../images/v77_276.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    overflow: hidden;
+  }
+  .v68_249 {
+    width: 313px;
+    height: 80px;
+    background: url("../images/v68_249.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 746px;
+    left: 233px;
+    overflow: hidden;
+  }
+  #saibaMais {
+    color: white;
+    width: 283px;
+    height: 70px;
+    background: rgba(70,2,115,1);
+    opacity: 1;
+    position: relative;
+    top: 30%;
+    left: 19%;
+    border: 2px solid rgba(172,108,214,1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-size: 20px;
+    text-shadow: 0 4px 4px pink;
+    cursor: pointer;
+    
+  }
+  .v68_251 {
+    width: 244px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 27px;
+    left: 69px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .txtAbout {
+    width: 666px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 35%;
+    left: 90px;
+    font-family: Manrope;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+    line-height: 50px;
+  }
+  .imgLateral {
+    width: 601px;
+    height: 1000px;
+    background: url("../images/v68_247.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 33%;
+    left: 800px;
+    overflow: hidden;
+  }
+
+
+  #saibaMais:hover{
+        background: aliceblue;
+        color: #D9298A;
+  }
+
+  
